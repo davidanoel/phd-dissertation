@@ -1,0 +1,2 @@
+adam lr 1e-4 reducelr 0.5
+Wall time: 2h 35min 43s

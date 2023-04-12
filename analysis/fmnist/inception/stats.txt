@@ -1,0 +1,2 @@
+Wall time: 2h 52min 35s
+lr 1e-4 reducelr(0.5)

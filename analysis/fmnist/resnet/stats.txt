@@ -1,0 +1,2 @@
+FMNIST adam(3e-4) reducelr0.333 with earlystopping40
+Wall time: 1h 28min 43s

@@ -1,0 +1,2 @@
+cifar10 adam(5e-4) reducelr0.5 with earlystopping40
+Wall time: 1h 20min 25s
