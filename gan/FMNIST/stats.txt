@@ -1,0 +1,3 @@
+dcgan
+1000 epochs
+Wall time: 8h 39min 49s
